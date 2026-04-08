@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Alfred Udah 👋</h1>
+<h1 align="center">Hi there, I'm Alfred 👋</h1>
 <h3 align="center">Engineer · MBA · AI Enthusiast · Entrepreneur</h3>
 
 <p align="center">
