@@ -17,9 +17,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a versatile tech professional with a background in **Electrical & Electronics Engineering** and an **MBA**, bridging the gap between deep technical expertise and business acumen. I'm passionate about creating impactful solutions — from embedded systems and metrology software to AI agents and entrepreneurial ventures.
+I'm a versatile tech professional. I'm passionate about software, embedded systems, metrology AI and entrepreneurial ventures.
 
-> 🚀 *Actively learning and implementing AI technologies, including AI agents, in real-world projects.*
+> 🚀 *Actively learning and implementing AI technologies, including AI agents, in real world projects.*
 
 ---
 
