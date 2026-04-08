@@ -66,7 +66,7 @@ I'm a versatile tech professional. I'm passionate about software, embedded syste
 | **FunGen** | Custom function generator control software |
 | **Endurance Logger** | Long-duration data logging app with database storage & historical analysis |
 | **Optical Viewer** | Real-time, high-speed visualization of optical data streams |
-| **AI Agent – Financial News** | AI agent for automated financial news generation *(2025)* |
+| **AI Agent – Financial News** | AI agent for automated financial news generation |
 
 ---
 
