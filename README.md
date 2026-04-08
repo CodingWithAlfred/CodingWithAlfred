@@ -8,8 +8,8 @@
   <a href="https://github.com/CodingWithAlfred" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="tel:+19197803481">
-    <img src="https://img.shields.io/badge/Phone-%2B1%20(919)%20780--3481-green?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-your.email@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
